@@ -1,8 +1,0 @@
-This script just creates a image with two colors in the form of a checker board pattern.
-
-If you want a different color patten creat a .png of 1x1 pixel and in the pattern.py file change the 15th line from "fg1.png" to your new image name (1x1 pixel).
-
-
-If you want a bigger image change the canvas size in line 4. You can also change the background color in the same line.
-
-***This may take 2-3 minutes.
