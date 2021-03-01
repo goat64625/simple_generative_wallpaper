@@ -1,0 +1,4 @@
+python3 main.py
+
+
+gsettings set org.gnome.desktop.background picture-uri "/home/buggus/hahaha/wallpaper/penis/wallpaper.png"

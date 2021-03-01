@@ -1,0 +1,9 @@
+This script just pastes a transparent png all around a background in this case tiny heart in a pink background.
+
+The placing of the png is "random" and is also rotated at random angles.
+
+If you want any other png to repalce the fg.png with any other image with same name (fg.png).
+
+If you want to change the number of png pasted on the foreground open main.py and change the while loop condition i.e change 4000 to a greater or smaller number.
+
+If you want a bigger image change the canvas size in line 5. You can also change the background color in the same line.
