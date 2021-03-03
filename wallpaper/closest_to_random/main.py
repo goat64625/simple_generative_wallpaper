@@ -18,7 +18,7 @@ img = canvas #Image.open('wallpaper.png')
 pix = img.load()
 #print(pix[100,200])
 for i in range (0,1440000):
-	pix[x,y] = (random.randrange(0,255),random.randrange(0,255),random.randrange(0,255))
+	pix[x,y] = (random.randrange(0,256),random.randrange(0,256),random.randrange(0,256))
 	y = y + 1
 	if y == width:
 		y = 0
